@@ -31,7 +31,7 @@
 
 <h2>⭐ Certifications</h2>
 - <b>[Google Data Analytics Certificate](IN PROGRESS - 50% Complete)</br>
-- [R Programming Basics](https://coursera.org/share/e7fe44a24df010d4a0c691acc73764cb)</b>
+- <a href="https://coursera.org/share/e7fe44a24df010d4a0c691acc73764cb">[R Programming Basics]</a></b>
 
 <h2> 🤳 Connect with me:</h2>
 
