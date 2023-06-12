@@ -6,7 +6,8 @@
 - <b>COVID World Stats Project 1 (Infections, Deaths, and Vaccinations)</b>
   - <a href="https://github.com/sammajamma/PortfolioProjects/blob/main/covid_project_bigquery.sql">[Praciting writing queries in BiqQuery (Google Cloud Platform)]</a> 
 - <b> BellaBeat Marketing Insight Analysis
-  - <a href="https://github.com/sammajamma/PortfolioProjects/blob/main/BellaBeat_R_Code.r">[Exploratory and Visualization Analysis with R]
+  - <a href="https://github.com/sammajamma/PortfolioProjects/blob/main/BellaBeat_R_Code.r">[Exploratory and Visualization Analysis with R - Code ONLY]
+  - <a href="https://www.kaggle.com/samanthajchong/bellabeat-marketing-suggestions-capstone-project">[Exploratory and Visualization Analysis with R - Full Project Notebook]
 <!-- - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
