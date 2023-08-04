@@ -1,13 +1,15 @@
-<h1>Hi, I'm Samantha! <br/><a href="https://www.linkedin.com/in/samantha-chong-analyst/">Data Analyst</a> passionate about telling data-driven stories. 
+<h1>Hi, I'm Juliett! <br/><a href="https://www.linkedin.com/in/samantha-chong-analyst/">Data Analyst</a> passion for uncovering insights from complex datasets. 
 </h1>
 
 <h2>👨‍💻 SQL Projects:</h2>
 
-- <b>COVID World Stats Project 1 (Infections, Deaths, and Vaccinations)</b>
-  - <a href="https://github.com/sammajamma/PortfolioProjects/blob/main/covid_project_bigquery.sql">[Praciting writing queries in BiqQuery (Google Cloud Platform)]</a> 
-- <b> BellaBeat Marketing Insight Analysis
+- <b>Data Visualization with Tableau</b>
+  - <a href="https://public.tableau.com/app/profile/juliett.reyes/viz/NA2015/VideoGameSalesNA2015#1">[Visual]</a>
+  - <a href="https://www.loom.com/share/d07b85233c4f490384ea8aacda9e4809?sid=8c0743e8-f894-4095-b887-1ec42689ce54">[Demo Video]</a> 
+- <b> BellaBeat Cap Stone Project
   - <a href="https://github.com/sammajamma/PortfolioProjects/blob/main/BellaBeat_R_Code.r">[Exploratory and Visualization Analysis with R - Code ONLY]
-  - <a href="https://www.kaggle.com/samanthajchong/bellabeat-marketing-suggestions-capstone-project">[Exploratory and Visualization Analysis with R - Full Project Notebook]
+  - <a href="https://www.kaggle.com/samanthajchong/bellabeat-marketing-suggestions-capstone-project">[Exploratory and Visualization Analysis with R - Full -
+Project Notebook]
 <!-- - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -21,15 +23,6 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
--->
-<h2>📺 Project Videos</h2>
-
-- [COVID World Stats Project 1 - SQL] - COMING SOON 
-<!-- (*link here*)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 -->
 
 <h2>⭐ Certifications</h2>
@@ -46,13 +39,13 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor 
 [instagram]: https://www.instagram.com/joshmadakor/ -->
-[linkedin]: https://linkedin.com/in/samantha-chong-analyst
+[linkedin]: linkedin.com/in/juliett-reyess
 
 <!--
 **sammajamma/sammajamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -60,5 +53,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
